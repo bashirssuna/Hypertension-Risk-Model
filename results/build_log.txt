@@ -1,0 +1,22 @@
+extract rows: 3554; public file rows: 3694
+extract rows linked to the public file: 3554 of 3554
+  d1: 118 values of 77 set to missing
+  d3: 54 values of 77 set to missing
+  d4: 79 values of 77 set to missing
+  p16a: 60 values of 77 set to missing
+  p16b: 60 values of 77 set to missing
+  b8: 38 values of 77 set to missing
+  b5: 1 values of 77 set to missing
+  c5 = 88 (refused) set to missing: 1
+  implausible height or BMI, height and weight set to missing: 87
+  m14 below 50 cm set to missing: 9
+  m15 below 50 cm set to missing: 7
+  d4 set to 0 where d3 = 0 (question skipped): 271
+  smoking status from t1 and t8: never 3041, former 236, current 277, missing 0
+excluded for missing BP reading 2 or 3 or treatment status: 0
+analysis sample before imputation: 3554
+missing values by variable: edu=1, d1=118, d3=54, d4=133, p16a=60, p16b=60, m11=282, m12=282, m14=204, m15=202, b8=38, b5=1
+mice 3.19.0; methods: edu=polyreg, d1=pmm, d3=pmm, d4=pmm, p16a=pmm, p16b=pmm, m11=pmm, m12=pmm, m14=pmm, m15=pmm, b8=pmm, b5=pmm
+final N: 3554; hypertension: 825 (23.2%)
+  raised measured BP: 763; on treatment: 128; on treatment with measured BP below 140/90: 62
+  fasting glucose >= 6.1 mmol/L (imputation 1): 287

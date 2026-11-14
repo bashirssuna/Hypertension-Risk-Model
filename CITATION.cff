@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Hypertension risk stratification model for Ugandan adults (2023 WHO STEPS survey)"
+type: software
+authors:
+  - family-names: Ssuna
+    given-names: Bashir
+    affiliation: "Makerere University Hospital, Department of Research, Kampala, Uganda"
+repository-code: "https://github.com/bashirssuna/Hypertension-Risk-Model"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-14
+keywords:
+  - hypertension
+  - risk prediction
+  - LASSO
+  - Uganda
+  - WHO STEPS
+references:
+  - type: article
+    title: "Changes in the prevalence of the common risk factors for non-communicable diseases in Uganda between 2014 and 2023: Informed by nationally representative cross-sectional surveys"
+    authors:
+      - family-names: Kusolo
+        given-names: Ronald
+      - family-names: Mutungi
+        given-names: Gerald N.
+      - family-names: Mbuliro
+        given-names: Mary
+      - family-names: Kajjura
+        given-names: Richard
+      - family-names: Wesonga
+        given-names: Ronald
+      - family-names: Bahendeka
+        given-names: Silver K.
+      - family-names: Guwatudde
+        given-names: David
+    journal: "PLOS Global Public Health"
+    volume: 5
+    issue: 4
+    start: e0003755
+    year: 2025
+    doi: 10.1371/journal.pgph.0003755
+    notes: "Source of the public 2023 STEPS survey file (S2 Data, doi:10.1371/journal.pgph.0003755.s002)."

@@ -1,0 +1,32 @@
+variable,label,level,htn_n,htn_pct,normal_n,normal_pct
+c1,Sex,Male,329,39.9,1036,38.0
+c1,Sex,Female,496,60.1,1693,62.0
+region,Region,Central,229,27.8,638,23.4
+region,Region,Eastern,265,32.1,754,27.6
+region,Region,Northern,143,17.3,633,23.2
+region,Region,Western,188,22.8,704,25.8
+status,Residence,Urban,215,26.1,555,20.3
+status,Residence,Rural,610,73.9,2174,79.7
+edu,Education,No formal schooling,492,59.6,1548,56.7
+edu,Education,Primary,186,22.5,748,27.4
+edu,Education,Secondary,107,13.0,344,12.6
+edu,Education,Tertiary,40,4.8,89,3.3
+bp_meds,Currently treated for raised blood pressure,No,697,84.5,2729,100.0
+bp_meds,Currently treated for raised blood pressure,Yes,128,15.5,0,0.0
+fbg61,Fasting glucose >= 6.1 mmol/L,No,712,86.3,2555,93.6
+fbg61,Fasting glucose >= 6.1 mmol/L,Yes,113,13.7,174,6.4
+smoke,Smoking status,Never,680,82.4,2361,86.5
+smoke,Smoking status,Former,79,9.6,157,5.8
+smoke,Smoking status,Current,66,8.0,211,7.7
+t12,Uses smokeless tobacco,Yes,22,2.7,100,3.7
+t12,Uses smokeless tobacco,No,803,97.3,2629,96.3
+p1,Vigorous-intensity work,Yes,256,31.0,995,36.5
+p1,Vigorous-intensity work,No,569,69.0,1734,63.5
+p4,Moderate-intensity work,Yes,741,89.8,2477,90.8
+p4,Moderate-intensity work,No,84,10.2,252,9.2
+p7,Walks or cycles for travel,Yes,737,89.3,2559,93.8
+p7,Walks or cycles for travel,No,88,10.7,170,6.2
+p10,Vigorous-intensity sport or recreation,Yes,74,9.0,389,14.3
+p10,Vigorous-intensity sport or recreation,No,751,91.0,2340,85.7
+p13,Moderate-intensity sport or recreation,Yes,130,15.8,491,18.0
+p13,Moderate-intensity sport or recreation,No,695,84.2,2238,82.0

@@ -1,0 +1,5 @@
+# Store the analysis data byte for byte, so the SHA-256 recorded in
+# results/results.json and data/README.md matches a fresh clone on any platform.
+data/*.csv -text
+*.joblib binary
+*.png binary

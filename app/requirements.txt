@@ -1,0 +1,5 @@
+# The model files were saved with scikit-learn 1.8.0; load them with the same version.
+scikit-learn==1.8.0
+pandas==2.3.3
+joblib==1.5.3
+streamlit>=1.40
